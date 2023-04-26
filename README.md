@@ -4,6 +4,7 @@
 
 
 ![SrWalkerB GitHub stats](https://github-readme-stats.vercel.app/api?username=SrWalkerB&show_icons=true&theme=tokyonight&locale=pt-br)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srwalkerb&theme=dark) 
 
 ### Tecnologias na qual trabalho diariamente
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,js,angular,sass,bootstrap,mongodb,redis,nginx,docker,express,firebase,gcp,linux,git,gitlab,vscode,vim)](https://skillicons.dev)
