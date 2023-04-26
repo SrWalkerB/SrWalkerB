@@ -12,17 +12,4 @@
 [![My Skills](https://skillicons.dev/icons?i=py,nestjs,fastapi,react,postgres,prisma,heroku,aws)](https://skillicons.dev)
 
 ### Vou Estudar
-<div>
-    <img
-      src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"
-    />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=rust,ruby,c,cpp,cs,rails,dotnet,tensorflow,tailwind,kubernetes,gtk)](https://skillicons.dev)
