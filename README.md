@@ -6,29 +6,10 @@
 ![SrWalkerB GitHub stats](https://github-readme-stats.vercel.app/api?username=SrWalkerB&show_icons=true&theme=tokyonight&locale=pt-br)
 
 ### Tecnologias na qual trabalho diariamente
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,js,angular,sass,bootstrap,mongodb,redis,nginx,docker,firebase,gcp,linux,git,gitlab,vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,js,angular,sass,bootstrap,mongodb,redis,nginx,docker,express,firebase,gcp,linux,git,gitlab,vscode,vim)](https://skillicons.dev)
 
 ### Tecnologias Conhecidas
-<div>
-    <img
-      src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-    />
-    <img
-      src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-    />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=py,nestjs,fastapi,react,postgres,prisma,heroku,aws)](https://skillicons.dev)
 
 ### Vou Estudar
 <div>
