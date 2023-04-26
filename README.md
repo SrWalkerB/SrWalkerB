@@ -14,4 +14,4 @@
 [![My Skills](https://skillicons.dev/icons?i=py,nestjs,fastapi,react,postgres,prisma,heroku,aws)](https://skillicons.dev)
 
 ### Vou Estudar
-[![My Skills](https://skillicons.dev/icons?i=rust,ruby,c,cpp,cs,rails,dotnet,tensorflow,tailwind,kubernetes,gtk)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,ruby,c,cpp,cs,rails,dotnet,rabbitmq,tensorflow,nextjs,redux,tailwind,kubernetes,gtk)](https://skillicons.dev)
