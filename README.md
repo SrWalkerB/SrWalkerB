@@ -8,7 +8,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srwalkerb&theme=dark) 
 
 ### Tecnologias na qual trabalho diariamente
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,js,angular,sass,bootstrap,mongodb,redis,nginx,docker,express,firebase,gcp,linux,git,gitlab,vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,js,angular,bootstrap,mongodb,redis,nginx,docker,express,firebase,gcp,linux,git,gitlab,vscode,vim)](https://skillicons.dev)
 
 ### Tecnologias Conhecidas
 [![My Skills](https://skillicons.dev/icons?i=py,nestjs,fastapi,react,postgres,prisma,heroku,aws)](https://skillicons.dev)
